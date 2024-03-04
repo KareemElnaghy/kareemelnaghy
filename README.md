@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kareem Elnaghy</h1>
 <h3 align="center">"🤖 Computer Engineering Student | Passionate About Robotics & Mobile App Development 📱 | Crafting the Future, One Code at a Time ⚙️"</h3>
 
-- 🔭 I’m currently working on **LeetCode practice problems**
+- 🔭 I’m currently working on **University Projects**
 
-- 🌱 I’m currently learning **Applied Data Structures and Algorithms**
+- 🌱 I’m currently learning **Digital Design**
 
 - 🤝 I’m looking for help with **Summer Internships**
 
