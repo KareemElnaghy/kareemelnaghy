@@ -2,7 +2,7 @@
 <h3 align="center">"🤖 Computer Engineering Student | Passionate About Robotics & Mobile App Development 📱 | Crafting the Future, One Code at a Time ⚙️"</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on LeetCode Problems<br>🌱 I’m currently learning Computer Organization and Assembly Language<br>👨‍💻 All of my projects are available at https://github.com/KareemElnaghy?tab=repositories<br>📫 How to reach me kareemelnaghy@aucegypt.edu<br>⚡ Fun fact I love playing football and basketball.
+🔭 I’m currently working on LeetCode Problems<br>🌱 I’m currently learning Software Engineering and Computer Architecture<br>👨‍💻 All of my projects are available at https://github.com/KareemElnaghy?tab=repositories<br>📫 How to reach me kareemelnaghy@aucegypt.edu<br>⚡ Fun fact I love playing football and basketball.
 
 
 ## 🌐 Socials:
