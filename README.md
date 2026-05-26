@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kareem Elnaghy</h1>
 
 # 💫 About Me:
-🐬 I’m a Computer Engineering Student<br>🔭 I’m currently working on Personal Projects<br>🌱 I’m currently learning Operating Systems<br>👨‍💻 All of my projects are available at https://github.com/KareemElnaghy?tab=repositories<br>📫 How to reach me kareemelnaghy@aucegypt.edu<br>⚡ Fun fact I love playing football and basketball
+🐬 I’m a Computer Engineering Student<br>🔭 I’m currently working on personal projects<br>🌱 I’m currently working on my Senior Project<br>👨‍💻 All of my projects are available at https://github.com/KareemElnaghy?tab=repositories<br>📫 How to reach me kareemelnaghy@aucegypt.edu
 
 
 ## 🌐 Socials:
